@@ -1,6 +1,6 @@
 Quickly point you to my Youtube Channel for an explanation: [@SillyProofs](https://www.youtube.com/@SillyProofs)
 
-Blank Henon folder in the directory of the script, and Resume.txt even if empty are REQUIRED for the code. But Render Log.txt is optional to have.
+Blank folder named 'Henon' in the directory of the script, and Resume.txt even if empty are REQUIRED for the code. But Render Log.txt is optional to have, as it will create it anyway.
 
 ![Bifurcation Diagram](https://i.imgur.com/9fO61LJ.png)
 
