@@ -9,9 +9,9 @@ We can also appreciate minute details of our maps as each image is 100MP large:
 ![Bifurcation Feet](https://i.imgur.com/GbkPX1Z.png)
 
 **Chaos** is the evolution of a system in ways that are *unpredictable*.<br> “Evolution” means a change of the system's state whenever the system's variables are increased.<br><br>
-Many people are amazed by chaotic visuals and think that what they see is the system. This is not true! The entire system has only one state therefore just one coordinate at a time. Whatever else of vast imagery you see is just the *history* of the system!<br><br>
+Many people are amazed by Chaotic visuals and think that what they see is the system. This is not true! The entire system has only one state therefore just one coordinate at a time. Whatever else of vast imagery you see is just the *history* of the system!<br><br>
 Another misconception people have is believing *Chaos* means ‘total disorder.’ Not true again! Chaotic systems that we study always evolve within *known confines* albeit not evolving sequentially and they also always follow the rules of the system.<br><br>
-There are two kinds of chaotic systems:<br>
+There are two kinds of Chaotic systems:<br>
 - Systems whose states are governed by *iterative formulae*.<br>
  *In which you take the coordinates of the system's state and put it back in the equations to draw a new state, and repeat.*
 - Systems whose states are governed by *differential equations*.<br>
