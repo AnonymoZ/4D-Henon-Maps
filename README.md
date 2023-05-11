@@ -13,6 +13,6 @@ Many people are amazed by Chaotic visuals and think that what they see is the sy
 Another misconception people have is believing *Chaos* means ‘total disorder.’ Not true again! Chaotic systems that we study always evolve within *known confines* albeit not evolving sequentially and they also always follow the rules of the system.<br><br>
 There are two kinds of Chaotic systems:<br>
 - Systems whose states are governed by *iterative formulae*.<br>
- *In which you take the coordinates of the system's state and put it back in the equations to draw a new state, and repeat.*
+ *In which you take the coordinates of the system's state and put it back in the equations to draw a new state, and repeat. This is how you make the system's state ‘progress’, or ‘evolve.’*
 - Systems whose states are governed by *differential equations*.<br>
- *In which you increase the variables you control (for example* time) *and watch the system respond to your increases.*
+ *In which you increase the variables you control (for example* time​*) and watch the system respond to your increases.*
